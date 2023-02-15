@@ -1,4 +1,4 @@
-namespace src.Models;
+namespace myfinance_web_dotnet.Models;
 
 public class ErrorViewModel
 {
