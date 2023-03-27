@@ -8,6 +8,8 @@
 
 <p align="center">Projeto desenvolvido na disciplina "Práticas de implementação de evolução de software", parte do curso de Pós-graduação em Engenharia de software na Pontifícia Universidade Católica de Minas Gerais.</p>
 
+<br>
+<br>
 
 ## Sumário
 
@@ -24,12 +26,14 @@
    * [Autor](#pen-autor)
 <!--te-->
 
+<br>
+
 ## :information_source: Sobre
 
 
 A aplicação tem como objetivo permitir o controle de finanças pessoais por meio da criação de categorias de fluxo (plano de contas) e registro de transações.
 
-
+<br>
 
 ## :gear: Features
 
@@ -37,6 +41,8 @@ A aplicação tem como objetivo permitir o controle de finanças pessoais por me
 - [x] Edição de categorias no plano de contas
 - [x] Cadastro de transações vinculadas a uma categoria
 - [x] Edição de transações vinculadas a uma categoria
+
+<br>
 
 ## :computer: Demonstração da aplicação
 
@@ -65,7 +71,7 @@ A aplicação tem como objetivo permitir o controle de finanças pessoais por me
     </div>
 
 
-
+<br>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
@@ -73,9 +79,11 @@ A aplicação tem como objetivo permitir o controle de finanças pessoais por me
 - [Entity Framework](https://learn.microsoft.com/pt-br/ef/)
 - [Microsoft SQL Server](https://pt.wikipedia.org/wiki/Microsoft_SQL_Server)
 
+<br>
 
 ## :pen: Autor
 
- <img style="border-radius: 100%;" src="src/myfinance-web-dotnet/wwwroot/img/selfie.jpg" width="100px;" alt=""/>
- <br />
-<b>Nilton Fernandes</b>
+<div style="text-align: left">
+    <img style="border-radius: 100%; display:block; margin:0 10px;" src="src/myfinance-web-dotnet/wwwroot/img/selfie.jpg" width="100px;" alt=""/>
+    <b>Nilton Fernandes</b>
+</div>
