@@ -6,7 +6,7 @@
 ## My Finance Web - Controle de finanças pessoais
 
 
-<p align="center">Projeto desenvolvido na disciplina "Práticas de implementação de evolução de software", parte do curso de Pós-graduação em Engenharia de software na Pontifícia Universidade Católica de Minas Gerais.</p>
+<p align="center">Projeto desenvolvido na disciplina "Práticas de implementação e evolução de software", parte do curso de Pós-graduação em Engenharia de software na Pontifícia Universidade Católica de Minas Gerais.</p>
 
 <br>
 <br>
