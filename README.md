@@ -21,7 +21,7 @@
       * [Lista de plano de contas](#lista-de-plano-de-contas)
       * [Lista de transações](#lista-de-transações)
    * [Tecnologias utilizadas](#hammer_and_wrench-tecnologias-utilizadas)
-   * [Autor](#autor)
+   * [Autor](#pen-autor)
 <!--te-->
 
 ## :information_source: Sobre
@@ -69,14 +69,13 @@ A aplicação tem como objetivo permitir o controle de finanças pessoais por me
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
-- [ASP.NET Core MVC](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-7.0&tabs=visual-studio);
+- [ASP.NET Core MVC](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-7.0&tabs=visual-studio)
 - [Entity Framework](https://learn.microsoft.com/pt-br/ef/)
-- [Microsoft SQL Server](https://pt.wikipedia.org/wiki/Microsoft_SQL_Server);
+- [Microsoft SQL Server](https://pt.wikipedia.org/wiki/Microsoft_SQL_Server)
 
 
-## Autor
+## :pen: Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
  <img style="border-radius: 100%;" src="src/myfinance-web-dotnet/wwwroot/img/selfie.jpg" width="100px;" alt=""/>
  <br />
 <b>Nilton Fernandes</b>
