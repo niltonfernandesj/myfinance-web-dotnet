@@ -13,18 +13,15 @@
 
 
 <!--ts-->
-   * [Sobre](##Sobre)
-   * [Features](##Features)
-   * [Tecnologias utilizadas](##instalacao)
-   * [Como usar](##como-usar)
-      * [Pre Requisitos](##pre-requisitos)
-      * [Local files](##local-files)
-      * [Remote files](##remote-files)
-      * [Multiple files](##multiple-files)
-      * [Combo](##combo)
-   * [Tests](##testes)
-   * [Tecnologias](##tecnologias)
-   * [Autor](##autor)
+   * [Sobre](#information_source-sobre)
+   * [Features](#gear-features)
+   * [Demonstração da aplicação](#computer-demonstração-da-aplicação)
+      * [Cadastro de plano de contas](#cadastro-de-plano-de-contas)
+      * [Cadastro de transações](#cadastro-de-transações)
+      * [Lista de plano de contas](#lista-de-plano-de-contas)
+      * [Lista de transações](#lista-de-transações)
+   * [Tecnologias utilizadas](#hammer_and_wrench-tecnologias-utilizadas)
+   * [Autor](#autor)
 <!--te-->
 
 ## :information_source: Sobre
